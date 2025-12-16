@@ -1,0 +1,5 @@
+dir.txt
+mainlist.txt
+newlist.txt
+README.md
+shoppinglist.txt
